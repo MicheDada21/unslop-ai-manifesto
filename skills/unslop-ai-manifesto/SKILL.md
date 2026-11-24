@@ -1,9 +1,9 @@
 ---
-name: desloppify-repo
+name: unslop-ai-manifesto
 description: "Subtracts slop from a repository, from dead code and stacked workarounds to stale agent docs, in small batches that keep behavior, then adds guardrails. Use when refactoring a repo or cleaning up after agents."
 ---
 
-# Desloppify repo
+# Unslop AI manifesto
 
 Slop is anything that costs its next reader more effort than went into making it: code, tests, comments, docs, agent instructions. In a repository it compounds, because every agent reads what is there and copies it. This skill subtracts slop, keeps behavior identical and hands the user batches they can review in minutes.
 

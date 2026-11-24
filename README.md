@@ -2,7 +2,7 @@
 
 Sottrae lo slop da un repository, dal codice morto ai workaround alle istruzioni per agenti superate, in piccoli lotti che non cambiano il comportamento, poi aggiunge controlli automatici.
 
-Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
+Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library), dove la pagina di riferimento è [Unslop AI manifesto](https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/unslop-ai-manifesto). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
 
 ## Installare
 

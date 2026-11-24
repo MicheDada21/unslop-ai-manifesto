@@ -1,10 +1,10 @@
 {
-  "name": "desloppify-repo",
+  "name": "unslop-ai-manifesto",
   "description": "Subtracts slop from a repository, from dead code and stacked workarounds to stale agent docs, in small batches that keep behavior, then adds guardrails. Use when refactoring a repo or cleaning up after agents.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
-  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/desloppify-repo",
-  "repository": "https://github.com/MicheDada21/desloppify-repo",
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library",
+  "repository": "https://github.com/MicheDada21/unslop-ai-manifesto",
   "license": "MIT"
 }
